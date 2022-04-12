@@ -16,10 +16,10 @@ int main() {
    printf("Character datatype : %c\n",b);
    printf("Float datatype : %f\n",c);
    printf("Double Float datatype : %lf\n",d);
-   printf("size of short = %d bytes\n", sizeof(p));
-   printf("size of long = %d bytes\n", sizeof(q));
-   printf("size of long long = %d bytes\n", sizeof(r));
-   printf("size of long double= %d bytes\n", sizeof(s));
+   printf("Size of short = %d bytes\n", sizeof(p));
+   printf("Size of long = %d bytes\n", sizeof(q));
+   printf("Size of long long = %d bytes\n", sizeof(r));
+   printf("Size of long double= %d bytes\n", sizeof(s));
    printf("Signed char : %d\n",char1);
    printf("Unsigned char : %d\n",char2);
    return 0;
