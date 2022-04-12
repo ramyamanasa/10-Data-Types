@@ -1,10 +1,10 @@
 #include <stdio.h>
 int main() {
    // 10 Datatypes
-   int a = 10;
+   int a = 7;
    char b = 'S';
-   float c = 2.88;
-   double d = 28.888;
+   float c = 9.33;
+   double d = 99.333;
    short p;
    long q;
    long long r;
